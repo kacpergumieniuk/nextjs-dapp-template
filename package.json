@@ -13,6 +13,8 @@
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-loading": "^2.0.3",
     "viem": "^1.18.9",
     "wagmi": "^1.4.5"
   },
